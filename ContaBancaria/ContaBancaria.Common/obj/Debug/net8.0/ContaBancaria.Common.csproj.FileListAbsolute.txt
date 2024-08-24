@@ -1,0 +1,11 @@
+C:\Users\01\Desktop\Pastas\C#-Workspace\ContaBancaria\ContaBancaria.Common\bin\Debug\net8.0\ContaBancaria.Common.deps.json
+C:\Users\01\Desktop\Pastas\C#-Workspace\ContaBancaria\ContaBancaria.Common\bin\Debug\net8.0\ContaBancaria.Common.dll
+C:\Users\01\Desktop\Pastas\C#-Workspace\ContaBancaria\ContaBancaria.Common\bin\Debug\net8.0\ContaBancaria.Common.pdb
+C:\Users\01\Desktop\Pastas\C#-Workspace\ContaBancaria\ContaBancaria.Common\obj\Debug\net8.0\ContaBancaria.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01\Desktop\Pastas\C#-Workspace\ContaBancaria\ContaBancaria.Common\obj\Debug\net8.0\ContaBancaria.Common.AssemblyInfoInputs.cache
+C:\Users\01\Desktop\Pastas\C#-Workspace\ContaBancaria\ContaBancaria.Common\obj\Debug\net8.0\ContaBancaria.Common.AssemblyInfo.cs
+C:\Users\01\Desktop\Pastas\C#-Workspace\ContaBancaria\ContaBancaria.Common\obj\Debug\net8.0\ContaBancaria.Common.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\Pastas\C#-Workspace\ContaBancaria\ContaBancaria.Common\obj\Debug\net8.0\ContaBancaria.Common.dll
+C:\Users\01\Desktop\Pastas\C#-Workspace\ContaBancaria\ContaBancaria.Common\obj\Debug\net8.0\refint\ContaBancaria.Common.dll
+C:\Users\01\Desktop\Pastas\C#-Workspace\ContaBancaria\ContaBancaria.Common\obj\Debug\net8.0\ContaBancaria.Common.pdb
+C:\Users\01\Desktop\Pastas\C#-Workspace\ContaBancaria\ContaBancaria.Common\obj\Debug\net8.0\ref\ContaBancaria.Common.dll

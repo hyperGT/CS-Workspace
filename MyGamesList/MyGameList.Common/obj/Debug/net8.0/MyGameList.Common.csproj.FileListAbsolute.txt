@@ -1,0 +1,11 @@
+C:\Users\01\Desktop\Pastas\C#-Workspace\MyGamesList\MyGameList.Common\bin\Debug\net8.0\MyGameList.Common.deps.json
+C:\Users\01\Desktop\Pastas\C#-Workspace\MyGamesList\MyGameList.Common\bin\Debug\net8.0\MyGameList.Common.dll
+C:\Users\01\Desktop\Pastas\C#-Workspace\MyGamesList\MyGameList.Common\bin\Debug\net8.0\MyGameList.Common.pdb
+C:\Users\01\Desktop\Pastas\C#-Workspace\MyGamesList\MyGameList.Common\obj\Debug\net8.0\MyGameList.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01\Desktop\Pastas\C#-Workspace\MyGamesList\MyGameList.Common\obj\Debug\net8.0\MyGameList.Common.AssemblyInfoInputs.cache
+C:\Users\01\Desktop\Pastas\C#-Workspace\MyGamesList\MyGameList.Common\obj\Debug\net8.0\MyGameList.Common.AssemblyInfo.cs
+C:\Users\01\Desktop\Pastas\C#-Workspace\MyGamesList\MyGameList.Common\obj\Debug\net8.0\MyGameList.Common.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\Pastas\C#-Workspace\MyGamesList\MyGameList.Common\obj\Debug\net8.0\MyGameList.Common.dll
+C:\Users\01\Desktop\Pastas\C#-Workspace\MyGamesList\MyGameList.Common\obj\Debug\net8.0\refint\MyGameList.Common.dll
+C:\Users\01\Desktop\Pastas\C#-Workspace\MyGamesList\MyGameList.Common\obj\Debug\net8.0\MyGameList.Common.pdb
+C:\Users\01\Desktop\Pastas\C#-Workspace\MyGamesList\MyGameList.Common\obj\Debug\net8.0\ref\MyGameList.Common.dll

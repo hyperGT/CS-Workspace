@@ -1,0 +1,14 @@
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\bin\Debug\net8.0\firstProject.exe
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\bin\Debug\net8.0\firstProject.deps.json
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\bin\Debug\net8.0\firstProject.runtimeconfig.json
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\bin\Debug\net8.0\firstProject.dll
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\bin\Debug\net8.0\firstProject.pdb
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\obj\Debug\net8.0\firstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\obj\Debug\net8.0\firstProject.AssemblyInfoInputs.cache
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\obj\Debug\net8.0\firstProject.AssemblyInfo.cs
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\obj\Debug\net8.0\firstProject.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\obj\Debug\net8.0\firstProject.dll
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\obj\Debug\net8.0\refint\firstProject.dll
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\obj\Debug\net8.0\firstProject.pdb
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\obj\Debug\net8.0\firstProject.genruntimeconfig.cache
+C:\Users\01\Desktop\Pastas\C#-Workspace\firstProject\obj\Debug\net8.0\ref\firstProject.dll

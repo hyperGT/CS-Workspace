@@ -1,0 +1,14 @@
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\bin\Debug\net8.0\Pessoa.exe
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\bin\Debug\net8.0\Pessoa.deps.json
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\bin\Debug\net8.0\Pessoa.runtimeconfig.json
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\bin\Debug\net8.0\Pessoa.dll
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\bin\Debug\net8.0\Pessoa.pdb
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\obj\Debug\net8.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\obj\Debug\net8.0\Pessoa.AssemblyInfoInputs.cache
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\obj\Debug\net8.0\Pessoa.AssemblyInfo.cs
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\obj\Debug\net8.0\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\obj\Debug\net8.0\Pessoa.dll
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\obj\Debug\net8.0\refint\Pessoa.dll
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\obj\Debug\net8.0\Pessoa.pdb
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\obj\Debug\net8.0\Pessoa.genruntimeconfig.cache
+C:\Users\01\Desktop\Pastas\C#-Workspace\ModuloConstrutores\Pessoa\obj\Debug\net8.0\ref\Pessoa.dll
